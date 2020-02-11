@@ -1,0 +1,31 @@
+	.task5 a:link
+	{
+		color:orange;
+	}
+	.task5 a:hover
+	{
+		color:red;
+	}
+	.task5 p::first-letter
+	{
+		color:orange;
+		font-size: x-large;
+	}
+	.task8 #task81
+	{
+		display: none;
+	}
+	.task8 #task82
+	{
+		visibility: hidden;
+	}
+
+    img
+    {
+		float:right;
+	}
+	table,td,th 
+	{
+  border: 1px solid black;
+  border-collapse: collapse;
+    }
